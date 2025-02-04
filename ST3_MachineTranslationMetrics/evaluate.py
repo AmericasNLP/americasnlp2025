@@ -28,3 +28,4 @@ if __name__ == '__main__':
 
     assert len(metric_lines) == len(gold_lines)
     calculate_score_report(metric_lines, gold_lines)
+    
