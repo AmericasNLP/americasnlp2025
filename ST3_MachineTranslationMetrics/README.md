@@ -7,6 +7,8 @@ The AmericasNLP 2025 Shared Task on machine translation metrics for Indigenous l
 
 ## Update:
 
+2/4: 'Semantics' and 'Fluency' scores provided for the dev set in case the may be of use, note that 'Score' is their average and what we use to calculate correlations.
+
 1/25: Development sets, baselines, and evaluation script added.
 
 
