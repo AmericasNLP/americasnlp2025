@@ -12,10 +12,39 @@ The AmericasNLP 2025 Shared Task on machine translation metrics for Indigenous l
 
 
 ## Baselines
-The following are the Spearman's coefficients of the baseline metrics (BLEU and ChrF++) for the development sets. 
+The following are the Spearman's and Pearson's coefficients of the baseline metrics (BLEU and ChrF++) for the development sets, rounded to 4 decimal places.
 
-|    | Bribri    | Guarani    | Nahuatl    |
-|-------------|-------------|-------------|-------------|
-| BLEU | 0.3379 | 0.4694| 0.3813 | 
-| ChrF++ |0.4696 | 0.6684 | 0.6257 |
-
+<table>
+  <tr>
+    <th colspan="1"></th>
+    <th colspan="3">Spearman</th>
+    <th colspan="3">Pearson</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Bribri</td>
+    <td>Guarani</td>
+    <td>Nahuatl</td>
+    <td>Bribri</td>
+    <td>Guarani</td>
+    <td>Nahuatl</td>
+  </tr>
+  <tr>
+    <td>BLEU</td>
+    <td>0.3379</td>
+    <td> 0.4694</td>
+    <td>0.3813</td>
+    <td>0.2890</td>
+    <td>0.3797</td>
+    <td>0.4430</td>
+  </tr>
+  <tr>
+    <td>ChrF++</td>
+    <td>0.4696</td>
+    <td>0.6684</td>
+    <td>0.6257</td>
+    <td>0.3739</td>
+    <td>0.6390</td>
+    <td>0.5900</td>
+  </tr>
+</table>
