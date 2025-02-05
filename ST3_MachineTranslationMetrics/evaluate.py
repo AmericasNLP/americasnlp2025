@@ -1,10 +1,13 @@
-from scipy.stats import spearmanr
+from scipy.stats import spearmanr, pearsonr
 import argparse
 
 
 def calculate_score_report(sys, ref):
-    correlation, p_value = spearmanr(ref, sys)
-    print(f"Spearman Correlation: {correlation:}")
+    correlation_spearman, _ = spearmanr(ref, sys)
+    correlation_pearson, _ = pearsonr(ref, sys)
+
+    print(f"Spearman Correlation: {correlation_spearman:}")
+    print(f"Pearson Correlation: {correlation_pearson:}")
 
 if __name__ == '__main__':
 
@@ -25,3 +28,4 @@ if __name__ == '__main__':
 
     assert len(metric_lines) == len(gold_lines)
     calculate_score_report(metric_lines, gold_lines)
+    
