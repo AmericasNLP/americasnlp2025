@@ -68,13 +68,13 @@ The following rules apply to all tracks:
 
 ## Languages
 
-We are excited to add two new languages for the 2025 Shared Task: `Wayuunaiki (guc)` and `Awajun ()`, 
+We are excited to add two new languages for the 2025 Shared Task: `Wayuunaiki (guc)` and `Awajun (agr)`, 
 
 The complete list of languages is below:
 
 | ISO| Language |
 ---|---|
- -| **Awajun**
+agr | **Awajun**
 aym | Aymara 
 bzd |Bribri
 cni | Asháninka 
