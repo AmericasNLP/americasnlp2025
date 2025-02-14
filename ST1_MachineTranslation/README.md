@@ -107,5 +107,59 @@ We are more than happy to answer any questions regarding the workshop or shared 
 
 ## Baselines
 
-Baseline systems to be announced soon!
+## Baseline Systems 
 
+### From Spanish
+
+This year we provide the same two baseline systems, based on the best contenders of the 2023's results. In last year's edition, no overall system outperformed the current baselines.
+
+- [Sheffield](https://aclanthology.org/2023.americasnlp-1.21/): you can find more information [here](baselines/sheffield)
+- [Helsinki](https://aclanthology.org/2023.americasnlp-1.20/): you can find more information [here](baselines/helsinki)
+
+We provide ChrF++ results computed with the [evaluate.py](evaluate.py) script.
+
+## Results
+
+### Development set
+
+Results for development sets in **ChrF++**: 
+
+| ISO| Language | Helsinki | Sheffield
+---|---|----|----
+agr | **Awajun** | -- | --
+aym | Aymara | 32.63 | 34.28
+bzd |Bribri | 22.65 | 25.03
+cni | Asháninka | 25.68 | 26.34
+ctp | Chatino |  30.06 | 37.33
+gn | Guarani | 34.74 | 32.17
+guc | **Wayuunaiki** | -- | --
+hch | Wixarika | 27.98 | 27.98
+nah | Nahuatl | 26.45 | 25.58
+oto | Otomí |  13.10 | 12.69
+quy | Quechua | 28.78 | 30.22
+shp | Shipibo-Konibo | 30.59 | 28.39
+tar | Rarámuri | 17.58 | 16.91
+
+### Test set
+
+Results for test sets in **Chrf++**:
+
+| ISO| Language | Helsinki | Sheffield
+---|---|----|----
+agr | **Awajun** | -- | --
+aym | Aymara | 29.36 | **31.84**
+bzd |Bribri | 23.47 | **25.58**
+cni | Asháninka | **24.92** | 24.76
+ctp | Chatino |  29.84 | **37.05**
+gn | Guarani | **37.02** | 35.76
+guc | **Wayuunaiki** | -- | --
+hch | Wixarika | **28.67** | 28.28
+nah | Nahuatl | 22.78 | **23.28**
+oto | Otomí |  **13.32** | 12.87
+quy | Quechua | 28.81 | **34.01**
+shp | Shipibo-Konibo | **30.21** | 30.06
+tar | Rarámuri | **16.98** | 16.25
+
+### Into Spanish
+
+Coming soon!
