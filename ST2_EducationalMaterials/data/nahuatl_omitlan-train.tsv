@@ -25,7 +25,7 @@ NahuatlOmitlan0023	simi quipactia	PERSON[OBJ]:2_SI, PERSON[SUBJ]:3_PL	simi mitzp
 NahuatlOmitlan0024	ticpiya se yolcatl	PERSON[SUBJ]:3_SI, TENSE:FUT_SIM	quipiyas se yolcatl
 NahuatlOmitlan0025	ocpiyasquiah se yolcatl 	ASPECT:PFV, HON:1, MOOD:NA, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	amo otoconpix se yolcatl
 NahuatlOmitlan0026	juan octzicuinaltito in yolcameh	PURPOSIVE:VEN	juan octzicuinaltico in yolcatl
-NahuatlOmitlan0027	huan oquilueh "quema."	PERSON[IOBJ]:1_PL, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	huan amo techiluisqueh "quema"
+NahuatlOmitlan0027	"huan oquilueh ""quema."""	PERSON[IOBJ]:1_PL, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	"huan amo techiluisqueh ""quema"""
 NahuatlOmitlan0028	onicpiyaya se yolcatl	PERSON[SUBJ]:3_SI, TENSE:FUT_SIM	quipiyas se yolcatl
 NahuatlOmitlan0029	oquincochtitoya iconeuan	HON:1, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tocomoncochtia noconeuan
 NahuatlOmitlan0030	onicpiyaya se yolcatl	PERSON[OBJ]:3_PL, PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	tiquimpiyasqueh siqui yolcameh
@@ -36,7 +36,7 @@ NahuatlOmitlan0034	juan quintzicuinaltis in yolcameh	PERSON[OBJ]:3_SI, TENSE:PRE
 NahuatlOmitlan0035	nehuatl nicnextilia nin tlatzotzonal	ASPECT:PFV, HON:1, PERSON[OBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PAS_SIM, TYPE:NEG	nimehuantzitzin amo onoconnextilihqueh nin tlatzotzonal
 NahuatlOmitlan0036	onicpiyaya se yolcatl	ASPECT:DUR, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	ticpixtoqueh se yolcatl
 NahuatlOmitlan0037	amo xictzacuaqui nochan	MOOD:OPT, PERSON[OBJ]:NA, PERSON[POSS]:NA, PERSON[SUBJ]:3_PL, PURPOSIVE:NA, TRANSITIV:ITR, TYPE:AFF	matlatzacuacan
-NahuatlOmitlan0038	huan amo toconiluisquia "quema"	MOOD:NA, PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	huan niquimiluiah "quema"
+NahuatlOmitlan0038	"huan amo toconiluisquia ""quema"""	MOOD:NA, PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	"huan niquimiluiah ""quema"""
 NahuatlOmitlan0039	tlapiyatiueh	ASPECT:PFV, PERSON[SUBJ]:1_SI, TENSE:PAS_SIM	otitlapiyatoh
 NahuatlOmitlan0040	amo xictzacuacan nimochan	MOOD:NA, PERSON[POSS]:1_SI, PERSON[SUBJ]:1_SI, TYPE:AFF	nictzacua nochan
 NahuatlOmitlan0041	quipiyas se yolcatl	ASPECT:DUR, PERSON[SUBJ]:1_PL, TENSE:PRE_SIM	ticpixtoqueh se yolcatl
@@ -51,7 +51,7 @@ NahuatlOmitlan0049	nihnimisqueh ic tocalihtic	ASPECT:IPFV, TENSE:PAS_SIM	onihnim
 NahuatlOmitlan0050	titzacuatiueh tochantzin	MOOD:IMP, PERSON[POSS]:2_PL, PERSON[SUBJ]:2_PL, PURPOSIVE:NA, TENSE:PRE_SIM, TYPE:NEG	amo xictzacuacan nimochan
 NahuatlOmitlan0051	simi quipactia	ASPECT:PFV, PERSON[OBJ]:2_SI, TENSE:PAS_SIM	simi omitzpacteh
 NahuatlOmitlan0052	juan quitzicuinaltihtoc in yolcatl	PERSON[OBJ]:3_PL, TENSE:FUT_SIM	juan quintzicuinaltis in yolcameh
-NahuatlOmitlan0053	huan niquimiluiah "quema"	PERSON[IOBJ]:1_PL	huan titechoniluiah "quemah"
+NahuatlOmitlan0053	"huan niquimiluiah ""quema"""	PERSON[IOBJ]:1_PL	"huan titechoniluiah ""quemah"""
 NahuatlOmitlan0054	oquitzacu ichan	PERSON[POSS]:1_SI, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM	nictzacua nochan
 NahuatlOmitlan0055	niccochtia noconeu	ASPECT:PFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PAS_SIM	occochteh iconeu
 NahuatlOmitlan0056	simi nechtlasohtla	ASPECT:IPFV, HON:1, PERSON[OBJ]:1_PL, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM, TYPE:NEG	amo simi otitechontlasohtlaya
@@ -67,7 +67,7 @@ NahuatlOmitlan0065	quipiyas se yolcatl	ASPECT:PFV, HON:1, PERSON[SUBJ]:2_SI, TEN
 NahuatlOmitlan0066	intlacual itzcuimeh simi chiyauac	TENSE:FUT_SIM, TYPE:NEG	intlacual itzcuimeh amo isqui simi chiyauac
 NahuatlOmitlan0067	simi tocontlasohtla	HON:NA, PERSON[OBJ]:1_PL, PERSON[SUBJ]:2_PL	simi titechtlasohtlah
 NahuatlOmitlan0068	amo onihnin ic nimocalihtic	HON:1, MOOD:INT, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI	¿mox amo otonnihnin ic nocalihtic?
-NahuatlOmitlan0069	huan maquimiluican "quema"	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	huan niquimiluiah "quema"
+NahuatlOmitlan0069	"huan maquimiluican ""quema"""	MOOD:NA, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	"huan niquimiluiah ""quema"""
 NahuatlOmitlan0070	onicpiyaya se yolcatl	TENSE:PRE_SIM	nicpiya se yolcatl
 NahuatlOmitlan0071	amo otinihnintoyah ic icalihtic	MOOD:COND, PERSON[POSS]:2_SI, PERSON[SUBJ]:3_PL	amo nihnimisquiah ic mocalihtic
 NahuatlOmitlan0072	occochteh iconeu	ASPECT:DUR, PERSON[OBJ]:3_PL, PERSON[POSS]:NA, TENSE:PRE_SIM	quincochtihtoc coconeh
@@ -102,8 +102,8 @@ NahuatlOmitlan0100	nehuatl nimitznextilis nin tlatzotzonal	PERSON[IOBJ]:3_SI, PE
 NahuatlOmitlan0101	milauac otiualaqueh	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM	milauac uitseh
 NahuatlOmitlan0102	oquincochtitoya iconeuan	ASPECT:PFV, PERSON[OBJ]:3_SI	occochteh iconeu
 NahuatlOmitlan0103	yehuatl onechnextileh nin tlatzotzonal	PERSON[SUBJ]:2_SI, PURPOSIVE:VEN, TYPE:NEG	tehuatl amo otinechnextilito nin tlatzotzonal
-NahuatlOmitlan0104	huan amo techiluisqueh "quema"	PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM, TYPE:AFF	huan nimechiluia "quema"
-NahuatlOmitlan0105	huan oquilueh "quema."	PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	huan titechoniluiah "quemah"
+NahuatlOmitlan0104	"huan amo techiluisqueh ""quema"""	PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM, TYPE:AFF	"huan nimechiluia ""quema"""
+NahuatlOmitlan0105	"huan oquilueh ""quema."""	PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	"huan titechoniluiah ""quemah"""
 NahuatlOmitlan0106	yeh amo oquinchihchiuato in tlaxcalmeh	PERSON[OBJ]:3_SI, PERSON[POSS]:3_SI, PURPOSIVE:NA, TENSE:FUT_SIM, TYPE:AFF	quichihchiuas itlaxcal
 NahuatlOmitlan0107	otontlapiyato	HON:NA, PERSON[SUBJ]:2_PL, PURPOSIVE:VEN	onitlapiyacoh
 NahuatlOmitlan0108	nicpiya se yolcatl	PERSON[OBJ]:3_PL, PERSON[SUBJ]:1_PL, TENSE:FUT_SIM	tiquimpiyasqueh siqui yolcameh
@@ -147,8 +147,8 @@ NahuatlOmitlan0145	nitlapiyati	PERSON[SUBJ]:3_PL	tlapiyatiueh
 NahuatlOmitlan0146	simi nechtlasohtla	PERSON[OBJ]:1_PL, PERSON[SUBJ]:2_PL	simi titechtlasohtlah
 NahuatlOmitlan0147	onicpixqueh se yolcatl	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	ticpiya se yolcatl
 NahuatlOmitlan0148	intlacual itzcuimeh amo isqui simi chiyauac	TENSE:PRE_SIM	intlacual itzcuimeh amo simi chiyauac
-NahuatlOmitlan0149	huan oquilueh "quema."	MOOD:OPT, PERSON[IOBJ]:3_PL, PERSON[SUBJ]:3_PL	huan maquimiluican "quema"
-NahuatlOmitlan0150	huan maquimiluican "quema"	MOOD:NA, PERSON[IOBJ]:1_PL, TENSE:FUT_SIM, TYPE:NEG	huan amo techiluisqueh "quema"
+NahuatlOmitlan0149	"huan oquilueh ""quema."""	MOOD:OPT, PERSON[IOBJ]:3_PL, PERSON[SUBJ]:3_PL	"huan maquimiluican ""quema"""
+NahuatlOmitlan0150	"huan maquimiluican ""quema"""	MOOD:NA, PERSON[IOBJ]:1_PL, TENSE:FUT_SIM, TYPE:NEG	"huan amo techiluisqueh ""quema"""
 NahuatlOmitlan0151	tehuatzin toconchihchiuaqui motlaxcaltzin	HON:NA, MOOD:IMP, PERSON[POSS]:2_PL, PERSON[SUBJ]:2_PL, PURPOSIVE:NA	xicchihchiuacan nimotlaxcal
 NahuatlOmitlan0152	simi omauiltihqueh tomistouan	ASPECT:IPFV, PERSON[POSS]:2_SI, PERSON[SUBJ]:3_SI, TYPE:NEG	amo simi omauiltaya momiston
 NahuatlOmitlan0153	niccochtia noconeu	ASPECT:DUR, PERSON[OBJ]:3_PL, PERSON[POSS]:NA, PERSON[SUBJ]:3_SI	quincochtihtoc coconeh
@@ -171,7 +171,7 @@ NahuatlOmitlan0169	simi mauiltia nomiston	ASPECT:PFV, PERSON[POSS]:1_PL, PERSON[
 NahuatlOmitlan0170	amo otinihnintoyah ic icalihtic	PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TYPE:AFF	onihnimiyah ic tocalihtic
 NahuatlOmitlan0171	amo onihnin ic nimocalihtic	HON:1, PERSON[POSS]:3_PL, PERSON[SUBJ]:2_PL, TENSE:FUT_SIM	amo nonnihnintosqueh ic incalihtic 
 NahuatlOmitlan0172	yeh oquinchihchiu in tlaxcalmeh	HON:1, PERSON[OBJ]:3_SI, PERSON[POSS]:2_SI, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tehuatzin toconchihchiuas motlaxcaltzin
-NahuatlOmitlan0173	huan nimechiluia "quema"	PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL	huan niquimiluiah "quema"
+NahuatlOmitlan0173	"huan nimechiluia ""quema"""	PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL	"huan niquimiluiah ""quema"""
 NahuatlOmitlan0174	yeh oquinchihchiu in tlaxcalmeh	MOOD:IMP, PERSON[OBJ]:3_SI, PERSON[POSS]:2_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	xicchihchiuacan nimotlaxcal
 NahuatlOmitlan0175	juan octzicuinaltico in yolcatl	PERSON[OBJ]:3_PL, PERSON[POSS]:3_SI, PURPOSIVE:NA, TYPE:NEG	juan amo oquintzicuinalteh iyolcauan
 NahuatlOmitlan0176	occochteh iconeu	PERSON[POSS]:NA, PERSON[SUBJ]:1_PL, PURPOSIVE:VET, TENSE:PRE_SIM	ticcochtihtiueh conetl
@@ -181,13 +181,13 @@ NahuatlOmitlan0179	juan quitzicuinaltihtoc in yolcatl	ASPECT:PFV, PURPOSIVE:VET,
 NahuatlOmitlan0180	itlacual itzcuintli ocatca simi chiyauac	PERSON[POSS]:3_PL, TENSE:FUT_SIM, TYPE:NEG	intlacual itzcuimeh amo isqui simi chiyauac
 NahuatlOmitlan0181	tehuatl amo otinechnextilito nin tlatzotzonal	PERSON[IOBJ]:NA, PERSON[OBJ]:NA, PERSON[SUBJ]:3_PL, PURPOSIVE:NA, TENSE:PRE_SIM, TRANSITIV:ITR, TYPE:AFF	tetlanextiliah
 NahuatlOmitlan0182	yehuatl onechnextileh nin tlatzotzonal	PERSON[IOBJ]:NA, PERSON[OBJ]:NA, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TRANSITIV:ITR	tetlanextiliah
-NahuatlOmitlan0183	huan oquilueh "quema."	PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	huan niquimiluiah "quema"
+NahuatlOmitlan0183	"huan oquilueh ""quema."""	PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	"huan niquimiluiah ""quema"""
 NahuatlOmitlan0184	quicochtihtoc in conetl	ASPECT:PFV, PERSON[POSS]:3_SI, TENSE:PAS_SIM	occochteh iconeu
 NahuatlOmitlan0185	nihnimi ic incalihtic	MOOD:COND, PERSON[POSS]:2_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo nihnimisquiah ic mocalihtic
 NahuatlOmitlan0186	in tlaxcal mochihchiua	ASPECT:PFV, PERSON[OBJ]:3_SI, PERSON[SUBJ]:2_SI, TENSE:PAS_SIM	teh oticchihchiu in tlaxcal
 NahuatlOmitlan0187	onicpiyaya se yolcatl	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	amo quipiya se yolcatl
 NahuatlOmitlan0188	milauac uitseh	MOOD:IMP, PERSON[SUBJ]:3_SI	milauac xiuiqui
-NahuatlOmitlan0189	huan amo toconiluisquia "quema"	MOOD:NA, PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	huan titechoniluiah "quemah"
+NahuatlOmitlan0189	"huan amo toconiluisquia ""quema"""	MOOD:NA, PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	"huan titechoniluiah ""quemah"""
 NahuatlOmitlan0190	amo otitlapixtoyah	PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:AFF	tlapixtoqueh
 NahuatlOmitlan0191	neh nicchichiua in tlaxcal	MOOD:IMP, PERSON[POSS]:2_SI, PERSON[SUBJ]:2_SI	xicchihchiua motlaxcal
 NahuatlOmitlan0192	tinihnimi ic nocalihtic	MOOD:COND, PERSON[POSS]:2_SI, PERSON[SUBJ]:3_PL, TYPE:NEG	amo nihnimisquiah ic mocalihtic
@@ -204,7 +204,7 @@ NahuatlOmitlan0202	tehuatzin titechimonnextilitos ninqueh tlatzotzonalmeh	ASPECT
 NahuatlOmitlan0203	tlapixtoqueh	ASPECT:PFV, PERSON[SUBJ]:2_PL, PURPOSIVE:VEN, TENSE:PAS_SIM	onitlapiyacoh
 NahuatlOmitlan0204	amo occochtito conetl	ASPECT:DUR, PERSON[OBJ]:3_PL, PERSON[POSS]:NA, TENSE:PRE_SIM, TYPE:AFF	quincochtihtoc coconeh
 NahuatlOmitlan0205	in tlaxcal mochihchiua	ASPECT:PFV, PERSON[OBJ]:3_PL, PURPOSIVE:VET, TENSE:PAS_SIM, TYPE:NEG	yeh amo oquinchihchiuato in tlaxcalmeh
-NahuatlOmitlan0206	huan oquilueh "quema."	PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM	huan nimechiluia "quema"
+NahuatlOmitlan0206	"huan oquilueh ""quema."""	PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM	"huan nimechiluia ""quema"""
 NahuatlOmitlan0207	amo otitlapixtoyah	PERSON[SUBJ]:3_PL, PURPOSIVE:VET, TENSE:PRE_SIM, TYPE:AFF	tlapiyatiueh
 NahuatlOmitlan0208	titzacuatiueh tochantzin	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, PURPOSIVE:VEN, TENSE:PRE_SIM, TYPE:NEG	amo xictzacuaqui nochan
 NahuatlOmitlan0209	onihnin ic nocalihtic	HON:1, MOOD:INT, PERSON[SUBJ]:2_SI, TYPE:NEG	¿mox amo otonnihnin ic nocalihtic?
@@ -220,7 +220,7 @@ NahuatlOmitlan0218	nicpiya se yolcatl	ASPECT:PFV, HON:1, PERSON[SUBJ]:2_SI, TENS
 NahuatlOmitlan0219	yehuatl onechnextileh nin tlatzotzonal	ASPECT:DUR, HON:1, PERSON[IOBJ]:3_SI, PERSON[OBJ]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tehuatzin titechimonnextilitos ninqueh tlatzotzonalmeh
 NahuatlOmitlan0220	nihnimi ic incalihtic	ASPECT:IPFV, PERSON[POSS]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	onihnimiyah ic tocalihtic
 NahuatlOmitlan0221	neh onicquixteh noprimaria	ASPECT:DUR, PERSON[POSS]:3_SI, PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	yeh amo quixtihtoc iprimaria
-NahuatlOmitlan0222	huan amo toconiluisquia "quema"	MOOD:NA, PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM, TYPE:AFF	huan nimechiluia "quema"
+NahuatlOmitlan0222	"huan amo toconiluisquia ""quema"""	MOOD:NA, PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM, TYPE:AFF	"huan nimechiluia ""quema"""
 NahuatlOmitlan0223	amo quipiya se yolcatl	MOOD:COND, PERSON[SUBJ]:3_PL, TYPE:AFF	ocpiyasquiah se yolcatl 
 NahuatlOmitlan0224	onicpixqueh se yolcatl	PERSON[SUBJ]:3_SI, TENSE:PRE_SIM, TYPE:NEG	amo quipiya se yolcatl
 NahuatlOmitlan0225	onicpixqueh se yolcatl	PERSON[SUBJ]:1_SI, TENSE:PRE_SIM	nicpiya se yolcatl
@@ -264,15 +264,15 @@ NahuatlOmitlan0262	nimehuantzitzin amo onoconnextilihqueh nin tlatzotzonal	ASPEC
 NahuatlOmitlan0263	¿mox amo otonnihnin ic nocalihtic?	HON:NA, MOOD:COND, PERSON[POSS]:2_SI, PERSON[SUBJ]:3_PL	amo nihnimisquiah ic mocalihtic
 NahuatlOmitlan0264	nitlapiyati	ASPECT:DUR, PERSON[SUBJ]:3_PL, PURPOSIVE:NA	tlapixtoqueh
 NahuatlOmitlan0265	nihnimisqueh ic tocalihtic	HON:1, PERSON[POSS]:3_PL, TYPE:NEG	amo nonnihnintosqueh ic incalihtic 
-NahuatlOmitlan0266	huan amo toconiluisquia "quema"	MOOD:NA, PERSON[IOBJ]:1_PL, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	huan amo techiluisqueh "quema"
+NahuatlOmitlan0266	"huan amo toconiluisquia ""quema"""	MOOD:NA, PERSON[IOBJ]:1_PL, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM	"huan amo techiluisqueh ""quema"""
 NahuatlOmitlan0267	in tlaxcal mochihchiua	HON:1, PERSON[OBJ]:3_SI, PERSON[POSS]:2_SI, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tehuatzin toconchihchiuas motlaxcaltzin
 NahuatlOmitlan0268	quicochtihtoc in conetl	PERSON[OBJ]:3_PL, PERSON[POSS]:3_SI, TENSE:PAS_SIM	oquincochtitoya iconeuan
 NahuatlOmitlan0269	yeh oquinchihchiu in tlaxcalmeh	HON:1, PERSON[OBJ]:3_SI, PERSON[POSS]:2_SI, PERSON[SUBJ]:2_SI, PURPOSIVE:VEN, TENSE:PRE_SIM	tehuatzin toconchihchiuaqui motlaxcaltzin
 NahuatlOmitlan0270	yehuan otechnextilitoyah nin tlatzotzonal	ASPECT:DUR, PERSON[IOBJ]:3_SI, PERSON[OBJ]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tehuatl tinechnextilihtoc nin tlatzotzonal
-NahuatlOmitlan0271	huan amo techiluisqueh "quema"	PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	huan niquimiluiah "quema"
+NahuatlOmitlan0271	"huan amo techiluisqueh ""quema"""	PERSON[IOBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	"huan niquimiluiah ""quema"""
 NahuatlOmitlan0272	simi tocontlasohtla	ASPECT:IPFV, PERSON[OBJ]:1_PL, TENSE:PAS_SIM, TYPE:NEG	amo simi otitechontlasohtlaya
 NahuatlOmitlan0273	amo onihnin ic nimocalihtic	MOOD:COND, PERSON[POSS]:2_SI, PERSON[SUBJ]:3_PL	amo nihnimisquiah ic mocalihtic
-NahuatlOmitlan0274	huan amo toconiluisquia "quema"	MOOD:OPT, PERSON[IOBJ]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	huan maquimiluican "quema"
+NahuatlOmitlan0274	"huan amo toconiluisquia ""quema"""	MOOD:OPT, PERSON[IOBJ]:3_PL, PERSON[SUBJ]:3_PL, TYPE:AFF	"huan maquimiluican ""quema"""
 NahuatlOmitlan0275	neh onicquixteh noprimaria	MOOD:COND, PERSON[POSS]:2_PL, PERSON[SUBJ]:2_PL	nimehuan quixtisquiah nimoprimaria
 NahuatlOmitlan0276	in tlaxcal mochihchiua	HON:1, PERSON[OBJ]:3_SI, PERSON[POSS]:2_SI, PERSON[SUBJ]:2_SI, PURPOSIVE:VEN	tehuatzin toconchihchiuaqui motlaxcaltzin
 NahuatlOmitlan0277	ticpixtoqueh se yolcatl	PERSON[OBJ]:3_PL, TENSE:FUT_SIM	tiquimpiyasqueh siqui yolcameh
@@ -282,7 +282,7 @@ NahuatlOmitlan0280	amo otlatzacuqueh	PERSON[OBJ]:3_SI, PERSON[POSS]:1_SI, PERSON
 NahuatlOmitlan0281	tocontzacuas mochantzin	ASPECT:PFV, HON:NA, PERSON[OBJ]:NA, PERSON[POSS]:NA, PERSON[SUBJ]:3_PL, TENSE:PAS_SIM, TRANSITIV:ITR, TYPE:NEG	amo otlatzacuqueh
 NahuatlOmitlan0282	amo otlatzacuqueh	MOOD:OPT, TENSE:PRE_SIM, TYPE:AFF	matlatzacuacan
 NahuatlOmitlan0283	nihnimisqueh ic tocalihtic	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_PL, TENSE:PAS_SIM, TYPE:NEG	amo otinihnintoyah ic icalihtic
-NahuatlOmitlan0284	huan nimechiluia "quema"	PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL	huan titechoniluiah "quemah"
+NahuatlOmitlan0284	"huan nimechiluia ""quema"""	PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL	"huan titechoniluiah ""quemah"""
 NahuatlOmitlan0285	yehuatl onechnextileh nin tlatzotzonal	PERSON[IOBJ]:3_SI, TENSE:FUT_SIM, TYPE:NEG	yehuatl amo quinnexitilis nin tlatzotzonal
 NahuatlOmitlan0286	yeh oquinchihchiu in tlaxcalmeh	PERSON[OBJ]:3_SI, PERSON[SUBJ]:2_SI	teh oticchihchiu in tlaxcal
 NahuatlOmitlan0287	amo simi onechpactaya	PERSON[OBJ]:2_SI, PERSON[SUBJ]:3_PL, TENSE:PRE_SIM, TYPE:AFF	simi mitzpactiah
@@ -300,7 +300,7 @@ NahuatlOmitlan0298	yehuatl amo quinnexitilis nin tlatzotzonal	ASPECT:IPFV, PERSO
 NahuatlOmitlan0299	niccochtia noconeu	HON:1, PERSON[OBJ]:3_PL, PERSON[SUBJ]:2_SI	tocomoncochtia noconeuan
 NahuatlOmitlan0300	yehuan otechnextilitoyah nin tlatzotzonal	ASPECT:DUR, HON:1, PERSON[IOBJ]:3_SI, PERSON[OBJ]:1_PL, PERSON[SUBJ]:2_SI, TENSE:FUT_SIM	tehuatzin titechimonnextilitos ninqueh tlatzotzonalmeh
 NahuatlOmitlan0301	onihnin ic nocalihtic	PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tinihnimi ic nocalihtic
-NahuatlOmitlan0302	huan maquimiluican "quema"	MOOD:NA, PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	huan titechoniluiah "quemah"
+NahuatlOmitlan0302	"huan maquimiluican ""quema"""	MOOD:NA, PERSON[IOBJ]:1_PL, PERSON[SUBJ]:2_PL, TENSE:PRE_SIM	"huan titechoniluiah ""quemah"""
 NahuatlOmitlan0303	tiquimpiyasqueh siqui yolcameh	ASPECT:DUR, PERSON[OBJ]:3_SI, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM, TYPE:NEG	amo nicpixtoc se yolcatl
 NahuatlOmitlan0304	quicochtihtoc iconeu	PERSON[OBJ]:3_PL, TENSE:PAS_SIM	oquincochtitoya iconeuan
 NahuatlOmitlan0305	quicochtihtoc in conetl	PERSON[OBJ]:3_PL	quincochtihtoc coconeh
@@ -311,14 +311,14 @@ NahuatlOmitlan0309	¿mox amo otonnihnin ic nocalihtic?	MOOD:NA, PERSON[POSS]:3_P
 NahuatlOmitlan0310	neh onicquixteh noprimaria	PERSON[POSS]:3_PL, PERSON[SUBJ]:3_PL, TENSE:FUT_SIM, TYPE:NEG	yehuan amo quiquixtisqueh imprimaria
 NahuatlOmitlan0311	amo onihnin ic nimocalihtic	ASPECT:IPFV, PERSON[POSS]:3_SI, PERSON[SUBJ]:1_PL	amo otinihnintoyah ic icalihtic
 NahuatlOmitlan0312	yehuatl amo quinnexitilis nin tlatzotzonal	ASPECT:PFV, HON:1, PERSON[OBJ]:3_PL, PERSON[SUBJ]:2_PL, TENSE:PAS_SIM	nimehuantzitzin amo onoconnextilihqueh nin tlatzotzonal
-NahuatlOmitlan0313	huan maquimiluican "quema"	MOOD:NA, PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM	huan nimechiluia "quema"
+NahuatlOmitlan0313	"huan maquimiluican ""quema"""	MOOD:NA, PERSON[IOBJ]:2_PL, PERSON[SUBJ]:1_SI, TENSE:PRE_SIM	"huan nimechiluia ""quema"""
 NahuatlOmitlan0314	oquitzacu ichan	MOOD:IMP, PERSON[POSS]:1_SI, PERSON[SUBJ]:2_SI, PURPOSIVE:VEN, TENSE:PRE_SIM, TYPE:NEG	amo xictzacuaqui nochan
 NahuatlOmitlan0315	ticpixtoqueh se yolcatl	PERSON[SUBJ]:1_SI, TYPE:NEG	amo nicpixtoc se yolcatl
 NahuatlOmitlan0316	yehuatl onechnextileh nin tlatzotzonal	ASPECT:DUR, PERSON[IOBJ]:3_SI, PERSON[OBJ]:1_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	tehuatl tinechnextilihtoc nin tlatzotzonal
-NahuatlOmitlan0317	huan amo techiluisqueh "quema"	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	huan titechoniluiah "quemah"
+NahuatlOmitlan0317	"huan amo techiluisqueh ""quema"""	PERSON[SUBJ]:2_PL, TENSE:PRE_SIM, TYPE:AFF	"huan titechoniluiah ""quemah"""
 NahuatlOmitlan0318	quichihchiuas itlaxcal	MOOD:IMP, PERSON[POSS]:2_SI, PERSON[SUBJ]:2_SI, TENSE:PRE_SIM	xicchihchiua motlaxcal
 NahuatlOmitlan0319	tehuatl amo otinechnextilito nin tlatzotzonal	ASPECT:DUR, PERSON[IOBJ]:3_SI, PERSON[OBJ]:1_SI, PURPOSIVE:NA, TENSE:PRE_SIM, TYPE:AFF	tehuatl tinechnextilihtoc nin tlatzotzonal
-NahuatlOmitlan0320	huan oquilueh "quema."	MOOD:COND, PERSON[SUBJ]:2_SI, TYPE:NEG	huan amo toconiluisquia "quema"
+NahuatlOmitlan0320	"huan oquilueh ""quema."""	MOOD:COND, PERSON[SUBJ]:2_SI, TYPE:NEG	"huan amo toconiluisquia ""quema"""
 NahuatlOmitlan0321	simi quipactia	ASPECT:IPFV, PERSON[OBJ]:1_SI, TENSE:PAS_SIM, TYPE:NEG	amo simi onechpactaya
 NahuatlOmitlan0322	juan octzicuinaltito in yolcameh	PERSON[OBJ]:3_PL, PERSON[POSS]:3_SI, PURPOSIVE:NA, TYPE:NEG	juan amo oquintzicuinalteh iyolcauan
 NahuatlOmitlan0323	amo otitlapixtoyah	ASPECT:PFV, HON:1, PERSON[SUBJ]:2_SI, PURPOSIVE:VET, TYPE:AFF	otontlapiyato
