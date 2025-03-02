@@ -7,9 +7,21 @@ The AmericasNLP 2025 Shared Task on machine translation metrics for Indigenous l
 
 ## Update:
 
+3/1: Test data added.
+
 2/4: 'Semantics' and 'Fluency' scores provided for the dev set in case the may be of use, note that 'Score' is their average and what we use to calculate correlations.
 
 1/25: Development sets, baselines, and evaluation script added.
+
+
+
+## Submission Guideline
+Please send all your system outputs to americas.nlp.workshop@gmail.com. The subject of your email should be "AmericasNLP2025_SharedTask3; Shared Task Submission; ". The content of your submission email should be as follows:
+
+    Line 1: Team name
+    Line 2: Names of all team members
+    Line 3: All languages you are sending submissions for in order of your choice (we will use that to double-check that we got all files you intended to send)
+    [optional] Line 4: A link to a GitHub repository with code that can be used to reproduce your results. This is not required in order to participate in the shared task, but it’s strongly encouraged. Please attach all output files to your email as a single zip file, named after your team, e.g., "TheGaugeCrew.zip". Within that zip file, the individual files should be named ".results.". The language code should be the same as used in the corresponding evaluation set names. The version number is in case you want to submit the outputs of multiple versions of your metric; it should be a single-digit (please don't submit more than 9 options per language!). The output file has all the scores of the test data in separate lines. 
 
 
 
