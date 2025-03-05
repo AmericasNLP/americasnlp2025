@@ -7,6 +7,8 @@ The AmericasNLP 2025 Shared Task on machine translation metrics for Indigenous l
 
 ## Update:
 
+3/5: Due to demand, we are extending the deadline of submission to 3/12/2015. The following deadlines/dates will be announced shortly.
+
 3/1: Test data added.
 
 2/4: 'Semantics' and 'Fluency' scores provided for the dev set in case the may be of use, note that 'Score' is their average and what we use to calculate correlations.
