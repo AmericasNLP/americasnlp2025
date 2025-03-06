@@ -28,7 +28,6 @@ Please use the following link to indicate your interest in participating: https:
 - Workshop: May 4th, 2025
 
 
-
 ## Shared Task Description: Tasks and Rules:
 
 We are making some exciting changes and additions to the Shared Task for 2025!
@@ -98,44 +97,50 @@ For reference to the prior shared tasks, winning submissions, and further analys
 | 2023| [Findings](https://aclanthology.org/2023.americasnlp-1.23/) | [Submitted Systems](https://aclanthology.org/volumes/2023.americasnlp-1/) |
 | 2024| [Findings](https://aclanthology.org/2024.americasnlp-1.28/) | [Submitted Systems](https://aclanthology.org/volumes/2024.americasnlp-1/) |
 
-
-## Contact
-
-We are more than happy to answer any questions regarding the workshop or shared task, please email us at [americas.nlp.workshop@gmail.com](malito:americas.nlp.workshop@gmail.com). Alternatively, [join our Slack channel](https://join.slack.com/t/americasnlp/shared_invite/zt-2c3lstrpe-n6DXqZyGVXVqDaGiM7mbHA).
-
-
-
 ## Baselines
 
 ### Baseline Systems 
 
-#### From Spanish
-
-This year we provide the same two baseline systems, based on the best contenders of the 2023's results. In last year's edition, no overall system outperformed the current baselines.
-
-- [Sheffield](https://aclanthology.org/2023.americasnlp-1.21/): you can find more information [here](baselines/sheffield)
-- [Helsinki](https://aclanthology.org/2023.americasnlp-1.20/): you can find more information [here](baselines/helsinki)
+This year we provide as a baseline a multilingual model (fine-tuned NLLB), based on the best contender of the 2023's results. In last year's edition, no overall system outperformed the current baselines. Read more about it [here](https://aclanthology.org/2023.americasnlp-1.21/).
 
 We provide ChrF++ results computed with the [evaluate.py](evaluate.py) script.
 
 Results for development sets in **ChrF++**: 
 
-| ISO| Language | Helsinki | Sheffield
----|---|----|----
-agr | **Awajun** | -- | --
-aym | Aymara | 32.63 | 34.28
-bzd |Bribri | 22.65 | 25.03
-cni | Asháninka | 25.68 | 26.34
-ctp | Chatino |  30.06 | 37.33
-gn | Guarani | 34.74 | 32.17
-guc | **Wayuunaiki** | -- | --
-hch | Wixarika | 27.98 | 27.98
-nah | Nahuatl | 26.45 | 25.58
-oto | Otomí |  13.10 | 12.69
-quy | Quechua | 28.78 | 30.22
-shp | Shipibo-Konibo | 30.59 | 28.39
-tar | Rarámuri | 17.58 | 16.91
+#### From Spanish
+
+ISO| Language | Chrf++
+agr | **Awajun** | 33.44
+ayr | Aymara | 34.91
+bzd | Bribri | 25.03
+cni | Asháninka | 25.93
+ctp | Chatino | 36.83
+grn | Guarani | 32.00
+guc | **Wayuunaiki** | 35.68
+hch | Wixarika | 27.76
+nah | Nahuatl | 25.38
+oto | Otomí | 12.78
+quy | Quechua | 30.38
+shp | Shipibo-Konibo | 28.45
+tar | Rarámuri | 16.70
 
 #### Into Spanish
 
-Coming soon!
+ISO| Language | Chrf++
+agr | **Awajun** | 33.61
+ayr | Aymara | 38.08
+bzd | Bribri | 31.66
+cni | Asháninka | 21.92
+ctp | Chatino | 36.09
+grn | Guarani | 34.57
+guc | **Wayuunaiki** | 31.91
+hch | Wixarika | 26.74
+nah | Nahuatl | 26.43
+oto | Otomí | 18.18
+quy | Quechua | 33.03
+shp | Shipibo-Konibo | 38.91
+tar | Rarámuri | 19.76
+
+## Contact
+
+We are more than happy to answer any questions regarding the workshop or shared task, please email us at [americas.nlp.workshop@gmail.com](malito:americas.nlp.workshop@gmail.com). Alternatively, [join our Slack channel](https://join.slack.com/t/americasnlp/shared_invite/zt-2c3lstrpe-n6DXqZyGVXVqDaGiM7mbHA).
