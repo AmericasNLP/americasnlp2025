@@ -9,8 +9,8 @@ Welcome to the Machine Translation Shared Task into Indigenous Languages! We are
 3. [Shared Task Description: Tasks and Rules](#shared-task-description-tasks-and-rules)
 4. [Languages](#languages)
 5. [Links to Prior Iterations](#links-to-prior-iterations)
-6. [Contact](#contact)
-7. [Baseline System](#baselines)
+6. [Baseline System](#baselines)
+7. [Contact](#contact)
 
 ## Registration
 
@@ -109,37 +109,38 @@ Results for development sets in **ChrF++**:
 
 #### From Spanish
 
-ISO| Language | Chrf++
-agr | **Awajun** | 33.44
-ayr | Aymara | 34.91
-bzd | Bribri | 25.03
-cni | Asháninka | 25.93
-ctp | Chatino | 36.83
-grn | Guarani | 32.00
-guc | **Wayuunaiki** | 35.68
-hch | Wixarika | 27.76
-nah | Nahuatl | 25.38
-oto | Otomí | 12.78
-quy | Quechua | 30.38
-shp | Shipibo-Konibo | 28.45
-tar | Rarámuri | 16.70
+| ISO| Language | Chrf++ |
+| --|--|--|
+| agr | **Awajun** | 33.44 |
+| ayr | Aymara | 34.91 |
+| bzd | Bribri | 25.03 |
+| cni | Asháninka | 25.93 |
+| ctp | Chatino | 36.83 |
+| grn | Guarani | 32.00 |
+| guc | **Wayuunaiki** | 35.68 |
+| hch | Wixarika | 27.76 |
+| nah | Nahuatl | 25.38 |
+| oto | Otomí | 12.78 |
+| quy | Quechua | 30.38 |
+| shp | Shipibo-Konibo | 28.45 |
+| tar | Rarámuri | 16.70 |
 
 #### Into Spanish
 
-ISO| Language | Chrf++
-agr | **Awajun** | 33.61
-ayr | Aymara | 38.08
-bzd | Bribri | 31.66
-cni | Asháninka | 21.92
-ctp | Chatino | 36.09
-grn | Guarani | 34.57
-guc | **Wayuunaiki** | 31.91
-hch | Wixarika | 26.74
-nah | Nahuatl | 26.43
-oto | Otomí | 18.18
-quy | Quechua | 33.03
-shp | Shipibo-Konibo | 38.91
-tar | Rarámuri | 19.76
+| ISO | Language | Chrf++ |
+| agr | **Awajun** | 33.61 |
+| ayr | Aymara | 38.08 |
+| bzd | Bribri | 31.66 |
+| cni | Asháninka | 21.92 |
+| ctp | Chatino | 36.09 |
+| grn | Guarani | 34.57 |
+| guc | **Wayuunaiki** | 31.91 |
+| hch | Wixarika | 26.74 |
+| nah | Nahuatl | 26.43 |
+| oto | Otomí | 18.18 |
+| quy | Quechua | 33.03 |
+| shp | Shipibo-Konibo | 38.91 |
+| tar | Rarámuri | 19.76 |
 
 ## Contact
 
