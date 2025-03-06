@@ -128,6 +128,7 @@ Results for development sets in **ChrF++**:
 #### Into Spanish
 
 | ISO | Language | Chrf++ |
+| --|--|--|
 | agr | **Awajun** | 33.61 |
 | ayr | Aymara | 38.08 |
 | bzd | Bribri | 31.66 |
