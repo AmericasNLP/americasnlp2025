@@ -16,16 +16,18 @@ Welcome to the Machine Translation Shared Task into Indigenous Languages! We are
 
 Please use the following link to indicate your interest in participating: https://forms.gle/gXRoa9pr6K75Tgce7
 
-## Important Dates
+## Important Dates -- **Updated 3/7/2025!!**
 - Release of training and development sets: January 30th, 2025
 - Release of baseline systems and baseline results: February 15th, 2025
-- Release of test inputs: March 1st 2025
-- Submission of results (shared task deadline): March 25th, 2025
-- Announcement of winners: April 4th, 2025
-- Submission of system descriptions papers: April 8th, 2025
-- Notification of acceptance: April 11th, 2025
-- Camera-ready papers due: April 14th, 2025
+- Release of test inputs: ~~March 1st 2025~~ March 14th, 2025
+- Submission of results **and** system description paper to SoftConf (shared task deadline): March 21st, 2025
+- Announcement of winners: ~~April 4th, 2025~~ March 22nd, 2025
+- ~~Submission of system descriptions papers: April 8th, 2025~~ 
+- Notification of acceptance: ~~April 11th, 2025~~ March 23rd, 2025
+- Camera-ready papers due: ~~April 14th, 2025~~ March 27th, 2025
 - Workshop: May 4th, 2025
+
+**Note**: We've updated out dates to comply with the proceedings deadline for NAACL. Please note that the submission to be scored and system description paper/technical report are now both due on March 21st. Also please note the tight turnaround for the Camera Ready deadline: please make sure that your paper follows all *ACL formatting guidelines so it can be included in the proceedings. 
 
 
 ## Shared Task Description: Tasks and Rules:
