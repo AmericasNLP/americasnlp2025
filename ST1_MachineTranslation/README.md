@@ -2,6 +2,10 @@
 
 Welcome to the Machine Translation Shared Task into Indigenous Languages! We are excited to host the **4th iteration** of the Shared Task. 
 
+# Test Set
+
+**3/12**: Please use the following from to request the test set! https://forms.gle/jaDUMduH95my5gpR7
+
 
 # Table of Contents
 1. [Registration](#registration)
