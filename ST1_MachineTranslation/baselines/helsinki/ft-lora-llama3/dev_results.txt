@@ -37,7 +37,7 @@ spanish-chatino dev :
 guarani-spanish dev:
 [TBA]
 spanish-guarani dev :
-[934]
+[TBA]
 nahuatl-spanish dev:
 []
 672
@@ -47,7 +47,7 @@ BLEU = 86.65
 spanish-nahuatl dev :
 [TBA]
 otomi-spanish dev:
-[TBA]
+[]
 599
 #### Score Report ####
 chrF2++ = 99.62
