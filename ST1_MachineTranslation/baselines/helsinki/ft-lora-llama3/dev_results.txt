@@ -1,0 +1,104 @@
+ashaninka-spanish dev:
+[]
+883
+#### Score Report ####
+chrF2++ = 99.53
+BLEU = 97.27
+spanish-ashaninka dev :
+[71, 122]
+881
+#### Score Report ####
+chrF2++ = 70.06
+BLEU = 16.88
+aymara-spanish dev:
+[]
+996
+#### Score Report ####
+chrF2++ = 97.22
+BLEU = 80.28
+spanish-aymara dev :
+[249, 749]
+bribri-spanish dev:
+[]
+996
+#### Score Report ####
+chrF2++ = 99.97
+BLEU = 99.85
+spanish-bribri dev :
+[611, 759]
+994
+#### Score Report ####
+chrF2++ = 88.79
+BLEU = 63.36
+chatino-spanish dev:
+[TBA]
+spanish-chatino dev :
+[TBA]
+guarani-spanish dev:
+[TBA]
+spanish-guarani dev :
+[934]
+nahuatl-spanish dev:
+[]
+672
+#### Score Report ####
+chrF2++ = 98.42
+BLEU = 86.65
+spanish-nahuatl dev :
+[TBA]
+otomi-spanish dev:
+[TBA]
+599
+#### Score Report ####
+chrF2++ = 99.62
+BLEU = 97.27
+spanish-otomi dev :
+[]
+599
+#### Score Report ####
+chrF2++ = 66.47
+BLEU = 50.52
+quechua-spanish dev:
+[TBA]
+spanish-quechua dev :
+[653, 739]
+raramuri-spanish dev:
+[]
+995
+#### Score Report ####
+chrF2++ = 95.95
+BLEU = 71.78
+spanish-raramuri dev :
+[811]
+994
+#### Score Report ####
+chrF2++ = 96.76
+BLEU = 85.46
+shipibo_konibo-spanish dev:
+[]
+996
+#### Score Report ####
+chrF2++ = 99.63
+BLEU = 97.47
+spanish-shipibo_konibo dev :
+[657, 762]
+994
+#### Score Report ####
+chrF2++ = 57.28
+BLEU = 11.13
+wayuu-spanish dev:
+[TBA]
+spanish-wayuu dev :
+[TBA]
+wixarika-spanish dev:
+[]
+994
+#### Score Report ####
+chrF2++ = 99.86
+BLEU = 99.98
+spanish-wixarika dev :
+[]
+994
+#### Score Report ####
+chrF2++ = 61.36
+BLEU = 2.44
