@@ -18,6 +18,10 @@ chrF2++ = 97.22
 BLEU = 80.28
 spanish-aymara dev :
 [249, 749]
+994
+#### Score Report ####
+chrF2++ = 27.12
+BLEU = 4.07
 bribri-spanish dev:
 []
 996
@@ -31,13 +35,21 @@ spanish-bribri dev :
 chrF2++ = 88.79
 BLEU = 63.36
 chatino-spanish dev:
-[TBA]
+[NA]
 spanish-chatino dev :
-[TBA]
+[NA]
 guarani-spanish dev:
-[TBA]
+[]
+995
+#### Score Report ####
+chrF2++ = 96.80
+BLEU = 84.40
 spanish-guarani dev :
-[TBA]
+[934]
+994
+#### Score Report ####
+chrF2++ = 49.71
+BLEU = 16.89
 nahuatl-spanish dev:
 []
 672
@@ -45,7 +57,11 @@ nahuatl-spanish dev:
 chrF2++ = 98.42
 BLEU = 86.65
 spanish-nahuatl dev :
-[TBA]
+[202]
+671
+#### Score Report ####
+chrF2++ = 57.81
+BLEU = 52.52
 otomi-spanish dev:
 []
 599
@@ -59,7 +75,11 @@ spanish-otomi dev :
 chrF2++ = 66.47
 BLEU = 50.52
 quechua-spanish dev:
-[TBA]
+[]
+996
+#### Score Report ####
+chrF2++ = 96.03
+BLEU = 74.61
 spanish-quechua dev :
 [653, 739]
 raramuri-spanish dev:
@@ -87,9 +107,9 @@ spanish-shipibo_konibo dev :
 chrF2++ = 57.28
 BLEU = 11.13
 wayuu-spanish dev:
-[TBA]
+[NA]
 spanish-wayuu dev :
-[TBA]
+[NA]
 wixarika-spanish dev:
 []
 994
