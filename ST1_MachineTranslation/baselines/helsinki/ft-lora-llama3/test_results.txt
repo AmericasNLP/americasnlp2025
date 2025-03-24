@@ -1,0 +1,136 @@
+ashaninka-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 99.65
+BLEU = 96.63
+spanish-ashaninka test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 70.26
+BLEU = 9.83
+aymara-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 89.80
+BLEU = 61.02
+spanish-aymara test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 27.42
+BLEU = 7.00
+bribri-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 99.01
+BLEU = 93.74
+spanish-bribri test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 72.78
+BLEU = 21.54
+chatino-spanish test:
+[]
+1000
+#### Score Report ####
+chrF2++ = 86.24
+BLEU = 52.91
+spanish-chatino test :
+[NA]
+guarani-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 87.03
+BLEU = 59.52
+spanish-guarani test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 68.38
+BLEU = 19.03
+nahuatl-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 99.28
+BLEU = 95.35
+spanish-nahuatl test :
+[179, 193, 330, 527, 604, 737, 757, 767]
+995
+#### Score Report ####
+chrF2++ = 54.04
+BLEU = 44.05
+otomi-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 99.39
+BLEU = 96.06
+spanish-otomi test :
+[332, 742]
+1001
+#### Score Report ####
+chrF2++ = 50.57
+BLEU = 15.48
+quechua-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 98.92
+BLEU = 95.23
+spanish-quechua test :
+[TBA]
+raramuri-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 94.50
+BLEU = 75.29
+spanish-raramuri test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 99.86
+BLEU = 99.10
+shipibo_konibo-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 99.22
+BLEU = 95.20
+spanish-shipibo_konibo test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 48.90
+BLEU = 9.53
+wayuu-spanish test:
+[]
+498
+#### Score Report ####
+chrF2++ = 97.92
+BLEU = 87.38
+spanish-wayuu test :
+[]
+498
+#### Score Report ####
+chrF2++ = 80.02
+BLEU = 90.20
+wixarika-spanish test:
+[]
+1003
+#### Score Report ####
+chrF2++ = 97.30
+BLEU = 85.82
+spanish-wixarika test :
+[]
+1003
+#### Score Report ####
+chrF2++ = 54.16
+BLEU = 5.78
