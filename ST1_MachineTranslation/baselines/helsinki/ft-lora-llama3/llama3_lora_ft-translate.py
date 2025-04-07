@@ -71,7 +71,7 @@ print(f'model_device={model.device}')
 
 def preprocess_function(example):
     # Expected dataset format:
-    # {"source_language": "English text", "target_language": "French text"}
+    # {"source": "<Spanish text>", "target": "<non-spanish text>", 'source_lang': 'spanish', 'target_lang': f'{tgt_lang}'}
     # Create prompts using the Llama 3 chat template
     prompts = []
     for src, tgt in zip(example["source"], example["target"]):
